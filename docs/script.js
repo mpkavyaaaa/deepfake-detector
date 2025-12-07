@@ -1,5 +1,5 @@
 // IMPORTANT: Change this to your deployed backend URL (Render, Railway, etc.)
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = "https://deepfake-detector-8zb1.onrender.com";
 
 const fileInput = document.getElementById("file-input");
 const dropzone = document.getElementById("dropzone");
